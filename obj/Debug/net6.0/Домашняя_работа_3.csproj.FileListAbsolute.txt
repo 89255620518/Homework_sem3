@@ -1,0 +1,15 @@
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\bin\Debug\net6.0\Домашняя_работа_3.exe
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\bin\Debug\net6.0\Домашняя_работа_3.deps.json
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\bin\Debug\net6.0\Домашняя_работа_3.runtimeconfig.json
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\bin\Debug\net6.0\Домашняя_работа_3.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\bin\Debug\net6.0\Домашняя_работа_3.pdb
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\obj\Debug\net6.0\Домашняя_работа_3.csproj.AssemblyReference.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\obj\Debug\net6.0\Домашняя_работа_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\obj\Debug\net6.0\Домашняя_работа_3.AssemblyInfoInputs.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\obj\Debug\net6.0\Домашняя_работа_3.AssemblyInfo.cs
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\obj\Debug\net6.0\Домашняя_работа_3.csproj.CoreCompileInputs.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\obj\Debug\net6.0\Домашняя_работа_3.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\obj\Debug\net6.0\refint\Домашняя_работа_3.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\obj\Debug\net6.0\Домашняя_работа_3.pdb
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\obj\Debug\net6.0\Домашняя_работа_3.genruntimeconfig.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Cеминар№2 по С#\Домашняя_работа_3\obj\Debug\net6.0\ref\Домашняя_работа_3.dll
